@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Turning+ideas+into+code+and+code+into+intelligence.;AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning;Exploring%20Neural%20Networks%20and%20Generative%20AI;Python%20%E2%80%A2%20PyTorch%20%E2%80%A2%20TensorFlow%20%E2%80%A2%20NLP" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Turning+ideas+into+code+and+code+into+intelligence.;Full%20Stack%20AI%20Researcher%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning;Exploring%20Neural%20Networks%20and%20Generative%20AI;Python%20%E2%80%A2%20PyTorch%20%E2%80%A2%20TensorFlow%20%E2%80%A2%20NLP" alt="typing" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <h3>🧠 AI / ML Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,docker,git,github&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,docker,git,github,javascript,html,css&perline=6"/>
 </p>
 
 <p>
@@ -127,11 +127,11 @@ trainer.train()
 <p align="center">
   <b>Interested in AI, ML, or open-source?</b><br/>
   Reach me on  
-  <a href="https://x.com/F3Rnandinh" target="_blank">
+  <a href="https://x.com/F3Rnandinh">
     <b style="color:#1DA1F2;">X</b>
   </a> 
   or  
-  <a href="https://instagram.com/F3Rnandinh" target="_blank">
+  <a href="https://instagram.com/F3Rnandinh">
     <b style="color:#E4405F;">Instagram</b>
   </a>
 </p>
