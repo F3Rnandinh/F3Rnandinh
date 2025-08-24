@@ -145,5 +145,5 @@ trainer.train()
   <img src="https://komarev.com/ghpvc/?username=F3Rnandinh&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 <p align="center">
-  <sub>🚀 Built with vision — turning ideas into AI-powered reality.</sub>
+  <sub>🚀 From vision to execution — crafting intelligence that matters.</sub>
 </p>
