@@ -1,6 +1,6 @@
-<!-- ✅ SUPREME README — Fernando Pinto Filho -->
+<!-- ✅ README — F3RNANDINH-->
 
-<!-- ======= HERO / BANNER ======= -->
+<!-- ======= BANNER ======= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Fernando%20Pinto%20Filho&fontAlign=50&fontAlignY=40&color=0:0A0F3C,100:00BFFF&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
