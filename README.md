@@ -9,11 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Turning+ideas+into+code+and+code+into+intelligence.;Full%20Stack%20AI%20Researcher%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning;Exploring%20Neural%20Networks%20and%20Generative%20AI;Python%20%E2%80%A2%20PyTorch%20%E2%80%A2%20TensorFlow%20%E2%80%A2%20NLP" alt="typing" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%7C%20NLP%20%7C%20Generative%20AI-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Philosophy-Build%20%F0%9F%9B%A0%EF%B8%8F%20Train%20%F0%9F%92%AA%20Deploy%20%F0%9F%9A%80-FF0080?style=for-the-badge"/>
-</p>
+
+
+<div align="center" style="display:flex; justify-content:center; gap:6px; flex-wrap:nowrap; width:100%; max-width:850px; margin:auto;">
+  <img src="https://img.shields.io/badge/🎯_Focus-Artificial%20Intelligence-8A2BE2?style=for-the-badge" style="flex:1; max-width:100%; height:auto;"/>
+  <img src="https://img.shields.io/badge/📚_Learning-Deep%20Learning%20%7C%20NLP%20%7C%20Gen.%20AI-00C7B7?style=for-the-badge" style="flex:1; max-width:100%; height:auto;"/>
+  <img src="https://img.shields.io/badge/💡_Philosophy-Build%20%F0%9F%9B%A0%EF%B8%8F%20Train%20%F0%9F%92%AA%20Deploy%20%F0%9F%9A%80-FF0080?style=for-the-badge" style="flex:1; max-width:100%; height:auto;"/>
+</div>
 
 <!-- Divider -->
 <p align="center">
